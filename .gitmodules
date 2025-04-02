@@ -1,0 +1,15 @@
+[submodule "CinnamonCompiler"]
+	path = CinnamonCompiler
+	url = https://github.com/CMU-CAOS/CinnamonCompiler.git
+[submodule "CinnamonSimulator"]
+	path = CinnamonSimulator
+	url = https://github.com/CMU-CAOS/CinnamonSimulator.git
+[submodule "CinnamonEmulator"]
+	path = CinnamonEmulator
+	url = https://github.com/CMU-CAOS/CinnamonEmulator.git
+[submodule "CinnamonRTL"]
+	path = CinnamonRTL
+	url = https://github.com/CMU-CAOS/CinnamonRTL.git
+[submodule "CinnamonTutorial"]
+	path = CinnamonTutorial
+	url = https://github.com/CMU-CAOS/CinnamonTutorial.git
